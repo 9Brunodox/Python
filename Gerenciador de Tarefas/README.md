@@ -1,1 +1,1 @@
-feat(task-manager): add README.md
+Gerenciador de Tarefas básico usando a linguagem Python
